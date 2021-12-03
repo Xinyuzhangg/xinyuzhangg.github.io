@@ -8,16 +8,16 @@ profile:
   align: right
   image: my_pic.png
   address: >
-    <p> Creator, Dreamer, Entrepreneur </p>
-    <p> Dreamer, Entrepreneur </p>
-    <p> Pre Entrepreneur </p>
+    <p> Creator</p>
+    <p> Dreamer</p>
+    <p> Entrepreneur </p>
     <p> Coffee Maker </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello, glad to meet you, I am a CS student interested in NLP, operating system, Object oriented programming, skateboard and coffee making. I am born and raised in Jingmen, Hubei. A small and beautiful city located in the middle of China famous for fish cake and rice.
+Hello, glad to meet you, I am a CS student interested in AI, Operating System, Object Oriented Programming, skateboard and coffee making. I am born and raised in Jingmen, Hubei. A small and beautiful city located in the middle of China famous for the fish cake and rice.
 
 I love traveling, I have been to Japan, Italy, France, Germany, Switzerland, Czech and the U.S. myself. I enjoy the tranquility brought by the nature when explore the wild and the bustling flowing in the metropolis while knowing more people. I could go on wandering in the mountains the whole day while breathing in the fresh air and be immersed in the green and the flourishing.
 
