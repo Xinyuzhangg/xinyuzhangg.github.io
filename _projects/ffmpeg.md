@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category: work
+title: System Software
+description: FFmpeg based video editing tool
+img: assets/img/ffmpeg.png
+importance: 2
+category: professional
 ---
 
 Every project has a beautiful feature showcase page.

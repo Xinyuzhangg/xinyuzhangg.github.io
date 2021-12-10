@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: work
+title: Industrial NLP Task
+description: Setting up deep learning model to accomplish great accuracy and efficiency.
+img: assets/img/bert.png
+importance: 4
+category: professional
 ---
 
 Every project has a beautiful feature showcase page.

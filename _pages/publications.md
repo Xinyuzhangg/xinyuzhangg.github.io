@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My publication
+description: The following is a list of my recent publications.
 years: [2021]
 nav: true
 ---

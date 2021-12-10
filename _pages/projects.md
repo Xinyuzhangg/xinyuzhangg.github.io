@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: My projects
+description: A series of projects I have worked on from profession to academics.
 nav: true
-display_categories: [work, fun]
+display_categories: [professional]
 horizontal: false
 ---
 <div class="projects">
